@@ -98,7 +98,7 @@ https://lab.ssafy.com/s10-webmobile2-sub2/S10P12A609.git
 
 ## 🌐 System Architecture
 
-![image](/uploads/e7f82f6ae13ab1861d7da5d7f6d30220/image.png)
+![seas_architecture](https://github.com/sjhjack/SEAS/assets/102958758/93388458-2032-4972-9a3d-6cf8b3729152)
 
 <br>
 
@@ -106,7 +106,7 @@ https://lab.ssafy.com/s10-webmobile2-sub2/S10P12A609.git
 
 ## 💾 ERD
 
-![image](/uploads/274e414254692c85b64461763568a983/image.png)
+![seas_erd](https://github.com/sjhjack/SEAS/assets/102958758/7cee3822-170c-4e9d-807d-799694598009)
 
 <br>
 
@@ -125,31 +125,31 @@ https://lab.ssafy.com/s10-webmobile2-sub2/S10P12A609.git
 
 -   메인 페이지
 
-    ![메인페이지만](/uploads/e38e5130687245be64f596aaf301978c/메인페이지만.gif){: width="1000" height="483"}
+    ![메인페이지만](https://github.com/sjhjack/SEAS/assets/102958758/9dce11e6-fd7f-4a1e-a5d1-b3f3c6fc0820)
 
 -   메뉴 선택 페이지
 
-    ![선택_페이지만](/uploads/a13dee1d830147678c8e3fba7459b397/선택_페이지만.gif){: width="1000" height="483"}
+    ![선택페이지](https://github.com/sjhjack/SEAS/assets/102958758/939efbfa-4123-4894-b3fc-5556edd5b25a)
 
--   로그인 / 회원가입 페이지
+-   회원가입 페이지
 
-    ![auth관련](/uploads/44d82a68be6c682ca7e54b3079e2578e/auth관련.gif){: width="1000" height="483"}
+    ![회원가입](https://github.com/sjhjack/SEAS/assets/102958758/dbffe8f5-8284-45d3-bc9e-96b28a8a2917)
 
 -   카드 페이지
 
-    ![카드](/uploads/62afcd19a0dff56c657ca70a33763c7a/카드.gif){: width="1000" height="483"}
+    ![카드_저용량](https://github.com/sjhjack/SEAS/assets/102958758/6f5f3ae9-aa89-46cb-8b69-384ccac76e44)
 
 -   퀴즈 페이지
 
-    ![퀴즈1](/uploads/de495cb7b02f15aaf17e4532cfa9ca28/퀴즈1.gif){: width="1000" height="483"}
+    ![퀴즈1](https://github.com/sjhjack/SEAS/assets/102958758/9a884fe7-cf4d-4bcd-929e-5e4ed886eebc)
 
 -   랭크 페이지
 
-    ![랭킹페이지](/uploads/71d756abe1b3cd3d8f873de810f4e6c4/랭킹페이지.gif){: width="1000" height="483"}
+    ![랭킹페이지_저용량](https://github.com/sjhjack/SEAS/assets/102958758/21f90dd6-c5dd-4c59-8776-c9b95eb9d2f2)
 
 -   마이 페이지
 
-    ![마이페이지](/uploads/5ac55b25897ebf29315126b00697bc29/마이페이지.gif){: width="1000" height="483"}
+    ![마이페이지_저용량](https://github.com/sjhjack/SEAS/assets/102958758/7b7982fd-bc25-4770-85a1-c1f0ed90b86d)
 
 <br>
 
